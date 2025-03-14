@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 import json
-#import faiss
+import faiss
 import numpy as np
 import time
 from sentence_transformers import SentenceTransformer
