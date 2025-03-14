@@ -1,9 +1,0 @@
-streamlit
-faiss-cpu
-numpy
-sentence-transformers
-faster-whisper
-deep-translator
-transformers
-opencv-python
-easyocr
